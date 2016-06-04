@@ -1,0 +1,26 @@
+body {
+  background: black;
+  color: #999999;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.container {
+  margin-top: 10%;
+  text-align: center;
+}
+
+.time {
+  font-size: 10em;
+}
+
+.weather {
+  margin-top: 2em;
+}
+
+.condition {
+  font-size: 8em;
+}
+
+.temperature {
+  font-size: 3em;
+}
